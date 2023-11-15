@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    min-height: 200vh;
+    color: white;
+
+}
+
+.box{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+}
+
+#p1{
+    visibility: hidden;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
